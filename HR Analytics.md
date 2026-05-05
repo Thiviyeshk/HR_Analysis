@@ -210,6 +210,16 @@ The dataset contains employee information such as:
 
 \* Enhances employee satisfaction and productivity
 
+## 📊 HR Analytics Dashboard
+
+### 📸 Dashboard Preview
+![HR Analytics](hr_analysis.png)
+
+---
+
+## 🎥 Demo Video
+👉 [Click to Watch Demo](hr_analysis.mp4)
+
 
 
 ###### **How to Run**
