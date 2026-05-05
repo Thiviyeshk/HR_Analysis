@@ -190,11 +190,6 @@ The dataset contains employee information such as:
 
 ###### 
 
-###### **Dashboard Preview**
-
-
-
-(Add your screenshot here)
 
 ###### 
 
